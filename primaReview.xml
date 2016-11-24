@@ -16,5 +16,9 @@
       <history createdBy="MarcoNordio" lastUpdatedBy="MarcoNordio" createdOn="2016-11-24 09:30:44 +0100" lastUpdatedOn="2016-11-24 09:30:44 +0100"/>
       <desc>why not OnCrate()?</desc>
     </issue>
+    <issue filePath="app/src/main/java/com/example/marco/provawifi/DeviceDetailFragment.java" summary="Secondo me revu va abbastanza bene" vcsRev="6c94dfe8ae7428119e75c5b62e3d96a22bdf8571" lineStart="61" lineEnd="61" hash="984408244" status="to_resolve">
+      <history createdBy="SimionMogildea" lastUpdatedBy="SimionMogildea" createdOn="2016-11-24 09:10:03 +0100" lastUpdatedOn="2016-11-24 09:10:03 +0100"/>
+      <desc>Secondo me revu va abbastanza bene</desc>
+    </issue>
   </issues>
 </review>

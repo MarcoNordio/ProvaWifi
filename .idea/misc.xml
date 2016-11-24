@@ -62,8 +62,8 @@
   <component name="revuProjectSettings">
     <option name="reviewFiles">
       <list>
-        <option value="secondaReview.xml" />
         <option value="primaReview.xml" />
+        <option value="secondaReview.xml" />
       </list>
     </option>
   </component>
