@@ -58,6 +58,7 @@ public class DeviceDetailFragment extends Fragment implements ConnectionInfoList
     private WifiP2pInfo info;
     ProgressDialog progressDialog = null;
 
+
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
